@@ -1,11 +1,29 @@
-## Opa, então eu sou Jordan Luiz Ribeiro Duarte e gosto de contribuir!
-<div align="center">
+## Opa, sou Jordan Luiz Ribeiro Duarte e gosto de contribuir!
+<div class="divTable">
   <a href="https://github.com/jdanribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=7&theme=dark"/>
+	<div class="divTableBody">
+		<div class="divTableRow">
+      <div class="divTableCell-center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      </div>
+      <div class="divTableCell-center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=7&theme=dark"/>
+      </div>
+    </div>
 </div>
   
   ##
+    
+ <div class="divTable" style="width: 1%; border: 1px solid #000;">
+	<div class="divTableBody">
+		<div class="divTableRow">
+			<div class="divTableCell">&nbsp;</div>
+			<div class="divTableCell">&nbsp;</div>
+		</div>
+	</div>
+</div>
+    
+  ##  
   
 <div> 
   <a href="https://www.instagram.com/jdan_ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
