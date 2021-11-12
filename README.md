@@ -1,10 +1,10 @@
 ## Opa, sou Jordan Luiz Ribeiro Duarte e gosto de contribuir!
 <h3>:gear:&nbsp;GitHub Analytics:</h3>
   <p align="center">
-  <a href="https://github.com/jdanribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&theme=dark"/>
-  <a/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/jdanribeiro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&theme=dark"/>
+    <a/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
   </p>
 	
   ##  
