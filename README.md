@@ -1,17 +1,9 @@
 ## Opa, sou Jordan Luiz Ribeiro Duarte e gosto de contribuir!
-<div class="divTable">
+<div align="center">
   <a href="https://github.com/jdanribeiro">
-	<div class="divTableBody">
-		<div class="divTableRow">
-      <div class="divTableCell-center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      </div>
-      <div class="divTableCell-center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=8&theme=dark"/>
-      </div>
-    </div>
-</div>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=8&theme=dark"/>
+
   ##
     
  <div class="divTable" style="width: 1%; border: 1px solid #000;">
