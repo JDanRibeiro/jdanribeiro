@@ -3,18 +3,8 @@
   <a href="https://github.com/jdanribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=8&theme=dark"/>
-
-  ##
-    
- <div class="divTable" style="width: 1%; border: 1px solid #000;">
-	<div class="divTableBody">
-		<div class="divTableRow">
-			<div class="divTableCell">&nbsp;</div>
-			<div class="divTableCell">&nbsp;</div>
-		</div>
-	</div>
 </div>
-    
+	
   ##  
   
 <div> 
