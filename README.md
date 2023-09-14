@@ -11,6 +11,7 @@
 <a href="https://t.me/jdan_ribeiro" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="twitter"></a>
 </div>
 <br/>
+<div>
 <p align="justify"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&count_private=true&theme=dark"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&theme=dark"/></p>
-
+</div>
