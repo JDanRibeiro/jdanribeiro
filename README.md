@@ -12,5 +12,5 @@
 </div>
 <br/>
 <p align="justify"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&count_private=true&theme=dark"/></p>
-<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&theme=dark"/></p>
 
