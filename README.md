@@ -1,7 +1,7 @@
 ### Opa, sou Jordan Luiz Ribeiro Duarte!
 
 * Sou profisional de TI há mais de 12 anos, neste período trilhei vários cargos, com responsabilidade e resiliencia.
-* Como [Microsoft Certified Trainer](https://learn.microsoft.com/pt-br/users/jordanluizribeiroduarte/transcript/7oz9eh81g1eryqw), desde 2022 gosto se compartilhar conhecimento e trazer um pouco da minha experiência aos alunos e mentorandos.
+* Como [Microsoft Certified Trainer](https://learn.microsoft.com/pt-br/users/jordanluizribeiroduarte/transcript/7oz9eh81g1eryqw), desde 2022 gosto de compartilhar conhecimento e trazer um pouco da minha experiência aos alunos e mentorandos.
 * Sou Analista de Infraestrutura de TI na Amaggi
 <div align="center">
 <i>Minhas redes sociais:</i><br>
@@ -10,12 +10,7 @@
 <a href="https://www.instagram.com/jdan_ribeiro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://t.me/jdan_ribeiro" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="twitter"></a>
 </div>
+<br/>
+<p align="justify"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&count_private=true&theme=dark"/></p>
+<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/></p>
 
-  <p align="center">
-    <a href="https://github.com/jdanribeiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&theme=dark"/>
-    <a/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
-  </p>
-	
-  ##
