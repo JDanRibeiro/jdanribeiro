@@ -13,6 +13,6 @@
 <br/>
 <div align="center">
   <a href="https://github.com/JDanRibeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=all&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&count_private=true&include_all_commits=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=10&theme=dark"/>
 </div>
