@@ -1,12 +1,14 @@
-## Opa, sou Jordan Luiz Ribeiro Duarte e gosto de contribuir!
-<h3>:gear:&nbsp;GitHub Analytics:</h3>
+### Opa, sou Jordan Luiz Ribeiro Duarte!
 
-<div> 
-  <a href="https://www.instagram.com/jdan_ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jordanluiz17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jordan-luiz-ribeiro-duarte/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href ="https://t.me/jdan_ribeiro"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jlrd1989@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+* Sou profisional de TI há mais de 12 anos, neste período trilhei vários cargos, com responsabilidade e resiliencia.
+* Como [Microsoft Certified Trainer](https://learn.microsoft.com/pt-br/users/jordanluizribeiroduarte/transcript/7oz9eh81g1eryqw), desde 2022 gosto se compartilhar conhecimento e trazer um pouco da minha experiência aos alunos e mentorandos.
+* Sou Analista de Infraestrutura de TI na Amaggi
+<div align="center">
+<i>Minhas redes sociais:</i><br>
+<a href="https://learn.microsoft.com/pt-br/users/jordanluizribeiroduarte/transcript/7oz9eh81g1eryqw" target="_blank"><img src="https://img.shields.io/badge/-MCT%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white" alt="MCT Badge"></a>
+<a href="https://www.linkedin.com/in/jordan-luiz-ribeiro-duarte/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/jdan_ribeiro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://t.me/jdan_ribeiro" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="twitter"></a>
 </div>
 
   <p align="center">
