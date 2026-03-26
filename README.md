@@ -1,18 +1,78 @@
-### Opa, sou Jordan Luiz Ribeiro Duarte!
+<h1 align="center">👋 Fala aí, eu sou o Jordan Ribeiro</h1>
 
-* Sou profisional de TI há mais de 12 anos, neste período trilhei vários cargos, com responsabilidade e resiliencia.
-* Como [Microsoft Certified Trainer](https://learn.microsoft.com/pt-br/users/jordanluizribeiroduarte/transcript/7oz9eh81g1eryqw), desde 2022 gosto de compartilhar conhecimento e trazer um pouco da minha experiência aos alunos e mentorandos.
-* Sou Analista de Infraestrutura de TI na Amaggi
-<div align="center">
-<i>Minhas redes sociais:</i><br>
-<a href="https://learn.microsoft.com/pt-br/users/jordanluizribeiroduarte/transcript/7oz9eh81g1eryqw" target="_blank"><img src="https://img.shields.io/badge/-MCT%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white" alt="MCT Badge"></a>
-<a href="https://www.linkedin.com/in/jordan-luiz-ribeiro-duarte/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/jdan_ribeiro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://t.me/jdan_ribeiro" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="twitter"></a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/JDanRibeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdanribeiro&show_icons=true&count_private=true&include_all_commits=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanribeiro&layout=compact&langs_count=10&theme=dark"/>
-</div>
+<p align="center">
+🚀 DevOps Engineer | ☁️ Multi-Cloud Architect | 🔐 Secure SDLC Advocate  
+</p>
+
+---
+
+## 🧠 Sobre mim
+
+Sou um profissional focado em **DevOps, Cloud e Automação**, com experiência prática em ambientes complexos e multi-cloud.
+
+Atuo com:
+
+- ☁️ Azure | AWS | GCP | OCI  
+- 🐳 Containers, Kubernetes e plataformas cloud-native  
+- ⚙️ Infraestrutura como Código (Terraform, Packer)  
+- 🔄 CI/CD (GitLab, GitHub Actions, Azure DevOps)  
+- 🔐 Segurança e Secure SDLC  
+- 🖥️ Ambientes híbridos (Windows + Linux)
+
+---
+
+## 🚀 O que eu faço
+
+- Automação de infraestrutura e provisionamento
+- Construção de pipelines CI/CD escaláveis
+- Implementação de arquiteturas cloud seguras
+- Observabilidade e monitoramento
+- Hardening e boas práticas de segurança
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### ☁️ Cloud
+Azure | AWS | GCP | OCI
+
+### 🔧 DevOps & IaC
+Terraform | Packer | Ansible | GitLab CI | GitHub Actions | Azure DevOps Pipeline
+
+### 🐳 Containers & Orquestração
+Docker | Dcoker Compose | Kubernetes
+
+### 📊 Observabilidade
+Zabbix | OpenTelemetry
+
+### 🧑‍💻 Linguagens & Scripts
+PowerShell | Bash
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 **Secure SDLC Open Source**  
+Framework para implementação de segurança no ciclo de desenvolvimento  
+
+🔹 **Agentic DevOps**  
+Automação inteligente de pipelines e workflows usando agentes  
+
+🔹 **Infraestrutura como Código Multi-Cloud**  
+Provisionamento padronizado em múltiplos provedores  
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JDanRibeiro&show_icons=true&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDanRibeiro&layout=compact&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+🚀 "Automatize tudo que for repetitivo. Escale tudo que for crítico."
+</p>
